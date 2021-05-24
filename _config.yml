@@ -1,14 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Apollo
+email:              amulbutterwaal@gmail.com
+description:        The Greek God of Music, Poetry, Light, Prophecy, and Medicine
+
+
+author:             Pi
+baseurl:            "/clean-blog"
+url:                "https://git-pi-e.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   ApollotheGod2
+github_username:    git-pi-e
+facebook_username:  spotify
 instagram_username:  
 linkedin_username:
 
